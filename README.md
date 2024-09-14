@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: *pawarmahesh3819@gmail.com*
 
-- ⚡ Fun fact: *I am Funny*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="www.linkedin.com/in/mahesh-pawar-a3a6a330a" target="blank">
@@ -68,6 +66,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+</a>
 </p>
 
 <div align="center">
